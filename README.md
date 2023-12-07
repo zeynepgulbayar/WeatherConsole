@@ -1,2 +1,2 @@
 # WeatherConsole
-HttpClient ile apiden konsola veri çekme ödevi
+HttpClient ile web api'den konsola veri çekme ödevi

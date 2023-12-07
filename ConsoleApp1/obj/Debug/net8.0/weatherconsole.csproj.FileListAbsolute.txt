@@ -32,3 +32,4 @@ C:\Users\Enes\Desktop\WeatherConsole-main\WeatherConsole-main\ConsoleApp1\obj\De
 C:\Users\Enes\Desktop\WeatherConsole-main\WeatherConsole-main\ConsoleApp1\obj\Debug\net8.0\weatherconsole.pdb
 C:\Users\Enes\Desktop\WeatherConsole-main\WeatherConsole-main\ConsoleApp1\obj\Debug\net8.0\weatherconsole.genruntimeconfig.cache
 C:\Users\Enes\Desktop\WeatherConsole-main\WeatherConsole-main\ConsoleApp1\obj\Debug\net8.0\ref\weatherconsole.dll
+C:\Users\Enes\Desktop\WeatherConsole-main\WeatherConsole-main\ConsoleApp1\obj\Debug\net8.0\weatherconsole.sourcelink.json
